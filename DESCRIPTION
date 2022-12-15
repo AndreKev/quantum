@@ -1,0 +1,18 @@
+Package: quantum
+Type: Package
+Title: Assets For Quantum Processing
+Version: 0.1.0
+Author: NYEMB NDJEM EONE ANDRE KEVIN [aut, cre]
+Maintainer: NYEMB NDJEM EONE ANDRE KEVIN <ndjemeone@mypacesystem.com>
+Description: This package provide assets and utilities for quantum
+    mechanics and cryptography using Pauli matrices. Learn more about
+    Quantum spin. Communicate privately by crypting messages with Pauli
+    based matrices
+Imports: stringr, inline, Rcpp
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+URL: http://www.github.com/AndreKev/quantum
+RoxygenNote: 7.2.2
+LinkingTo: 
+    Rcpp
