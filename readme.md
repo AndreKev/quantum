@@ -1,3 +1,4 @@
+![QUANTUM2](https://user-images.githubusercontent.com/86581549/222978562-44f0f1ae-d906-4581-a442-405ef1557c45.png)
 *Quantum - The Asset for Quantum Processing - release version v1.0.1*
 ## Description
 Introducing the quantum package, the next ultimate tool for exploring the fascinating world of quantum mechanics, secure communication and machine learning.
