@@ -1,4 +1,4 @@
-![QUANTUM2](https://user-images.githubusercontent.com/86581549/222978562-44f0f1ae-d906-4581-a442-405ef1557c45.png)
+## Package Quantum
 *Quantum - The Asset for Quantum Processing - release version v1.0.1*
 ## Description
 Introducing the quantum package, the next ultimate tool for exploring the fascinating world of quantum mechanics, secure communication and machine learning.
@@ -18,6 +18,9 @@ You can find complete presentation [here](https://www.canva.com/design/DAFTMre1y
 *The quantum package is open and young*  : to contribute to quantum, found out [the list of tasks](Tasks/), select one and open an issue to follow the progress of the work.
 ### 2. With funding
 *A open heart is open minded* : you can contribute to fund the development of this package by the community. Please, do not hesitate to afford this growth by your participation.
+
+## Modules
+![QUANTUM5](https://user-images.githubusercontent.com/86581549/222979387-95df9b32-e170-4360-9010-44fecc28f1a4.png)
 
 ## Available functions
 01. bcd_to_decimal
@@ -61,3 +64,4 @@ You can find complete presentation [here](https://www.canva.com/design/DAFTMre1y
 39. split
 40. unit_to_binary
 41. wait_message
+![QUANTUM2](https://user-images.githubusercontent.com/86581549/222978562-44f0f1ae-d906-4581-a442-405ef1557c45.png)
