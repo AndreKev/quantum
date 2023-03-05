@@ -1,12 +1,24 @@
-# Description
-This package provide assets and utilities for quantum
-mechanics and cryptography using Pauli matrices. Learn more about
-Quantum spin. Communicate privately by crypting messages with Pauli
-based matrices.
+*Quantum - The Asset for Quantum Processing - release version v1.0.1*
+## Description
+Introducing the quantum package, the next ultimate tool for exploring the fascinating world of quantum mechanics, secure communication and machine learning.
+
+With this package, you can easily encrypt and decrypt messages, communicate securely and perform a range of operations using end-to-end encryption. Whether you're a beginner or an experienced in quantum mechanics.
+
+This package provides assets and utilities for quantum mechanics and cryptography using Pauli matrices. Learn more about Quantum spin. Communicate privately by crypting messages with Pauli based matrices.
+
+## The Quantum package is open, by The OPEN Quantum Security team
 
 You can find complete presentation [here](https://www.canva.com/design/DAFTMre1ycA/oDwqTW46-kSHAku02JH6gQ/view?utm_content=DAFTMre1ycA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# Available functions
+![QUANTUM](https://user-images.githubusercontent.com/86581549/222977801-f3eb482c-49f7-491e-8d8b-1e64b100e51c.png)
+
+## Contribute
+### 1. With your code
+*The quantum package is open and young*  : to contribute to quantum, found out [the list of tasks](Tasks/), select one and open an issue to follow the progress of the work.
+### 2. With funding
+*A open heart is open minded* : you can contribute to fund the development of this package by the community. Please, do not hesitate to afford this growth by your participation.
+
+## Available functions
 01. bcd_to_decimal
 02. bcd_to_gray
 03. B.from_blocks
