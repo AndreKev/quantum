@@ -17,7 +17,7 @@ You can find complete presentation [here](https://www.canva.com/design/DAFTMre1y
 ### 1. With your code
 *The quantum package is open and young*  : to contribute to quantum, found out [the list of tasks](Tasks/), select one and open an issue to follow the progress of the work.
 ### 2. With funding
-*A open heart is open minded* : you can contribute to fund the development of this package by the community. Please, do not hesitate to afford this growth by your participation.
+*An open heart is open minded* : you can contribute to fund the development of this package by the community. Please, do not hesitate to afford this growth by your participation on this [funding page](https://www.paypal.com/donate/?hosted_button_id=GHXFHKHBQKP5L).
 
 ## Modules
 ![QUANTUM5](https://user-images.githubusercontent.com/86581549/222979387-95df9b32-e170-4360-9010-44fecc28f1a4.png)
@@ -64,4 +64,16 @@ You can find complete presentation [here](https://www.canva.com/design/DAFTMre1y
 39. split
 40. unit_to_binary
 41. wait_message
-![QUANTUM2](https://user-images.githubusercontent.com/86581549/222978562-44f0f1ae-d906-4581-a442-405ef1557c45.png)
+
+## Dear supporters,
+
+We at QUANTUM believe that everyone should have access to the tools and knowledge to explore the fascinating world of quantum mechanics, secure communication, and machine learning. However, we know that not everyone has the resources to do so. That's why we have made it our mission to make these tools and resources accessible to everyone, regardless of their background or financial situation.
+
+But we can't do it alone. That's why we need your help. By supporting QUANTUM, you are not only helping us to develop these tools and resources, but you are also helping us to build a more equitable and inclusive world. Your contribution can help us to inspire the next generation of scientists and engineers, and to create a future where everyone has the opportunity to explore and discover.
+
+We invite you to join us in this mission. Together, we can make a difference and create a brighter future for all.
+
+Thank you for your support.
+
+#### The QUANTUM Team
+
