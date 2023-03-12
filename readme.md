@@ -15,7 +15,7 @@ You can find complete presentation [here](https://www.canva.com/design/DAFTMre1y
 
 ## Contribute
 ### 1. With your code
-*The quantum package is open and young*  : to contribute to quantum, found out [the list of tasks](Tasks/), select one and open an issue to follow the progress of the work.
+*The quantum package is open and young*  : to contribute to quantum, found out [the list of tasks](https://github.com/AndreKev/quantum/contribute), select one and open an issue to follow the progress of the work.
 ### 2. With funding
 *An open heart is open minded* : you can contribute to fund the development of this package by the community. Please, do not hesitate to afford this growth by your participation on this [funding page](https://www.paypal.com/donate/?hosted_button_id=GHXFHKHBQKP5L).
 
